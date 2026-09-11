@@ -1,1 +1,1 @@
-console.log("GitHub collaboration practice");
+console.log("Feature branch practice");
